@@ -1,4 +1,4 @@
-package com.ddd.chap03;
+package com.tdd.chap03;
 
 public class TicTacToe {
 

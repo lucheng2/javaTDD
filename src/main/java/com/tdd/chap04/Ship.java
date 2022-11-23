@@ -1,4 +1,4 @@
-package com.ddd.chap04;
+package com.tdd.chap04;
 
 public class Ship {
 

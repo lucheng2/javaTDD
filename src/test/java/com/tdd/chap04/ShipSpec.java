@@ -1,9 +1,7 @@
-package com.ddd.chap04;
+package com.tdd.chap04;
 
 import org.testng.Assert;
 import org.testng.annotations.*;
-
-import static org.testng.Assert.*;
 
 @Test
 public class ShipSpec {

@@ -2,11 +2,11 @@
 <suite name="HelloTestNgSuite">
     <test name="HelloWorldTest" preserve-order="true" thread-count="10" parallel="methods">
         <classes>
-            <class name="com.ddd.chap04.DirectionSpec"/>
-            <class name="com.ddd.chap04.LocationSpec"/>
-            <class name="com.ddd.chap04.PlanetSpec"/>
-            <class name="com.ddd.chap04.PointSpec"/>
-            <class name="com.ddd.chap04.ShipSpec"/>
+            <class name="com.tdd.chap04.DirectionSpec"/>
+            <class name="com.tdd.chap04.LocationSpec"/>
+            <class name="com.tdd.chap04.PlanetSpec"/>
+            <class name="com.tdd.chap04.PointSpec"/>
+            <class name="com.tdd.chap04.ShipSpec"/>
         </classes>
     </test>
 </suite>

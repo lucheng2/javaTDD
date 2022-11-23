@@ -1,4 +1,4 @@
-package com.ddd.chap03;
+package com.tdd.chap03;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
